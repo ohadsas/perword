@@ -1,0 +1,28 @@
+{
+  "name": "maor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose_connect.js",
+  "dependencies": {
+    "bingtranslator": "^0.0.7",
+    "bson": "^0.3.2",
+    "express": "^4.12.4",
+    "mongoose": "^4.0.5",
+    "sequenty": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maortoubian/PerWords.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maortoubian/PerWords/issues"
+  },
+  "homepage": "https://github.com/maortoubian/PerWords"
+}
